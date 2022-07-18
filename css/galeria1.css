@@ -1,0 +1,197 @@
+h1{
+    color: white;
+    text-shadow: 1px 2px 2px black, 0 0 25px white, 0 0 5px white;
+    text-align: center;
+}
+
+div.galeria{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 610px;
+}
+
+div.galeria1{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 290px;
+}
+
+div.galeria2{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 800px;
+}
+
+div.galeria3{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 400px;
+}
+
+div.galeria4{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 1300px;
+}
+
+div.galeria5{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 225px;
+}
+
+div.galeria6{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    float: left;
+    width: 225px;
+}
+
+
+div.galeria7{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0,0.19);
+    float: left;
+    width: 400px;
+}
+
+div.galeria8{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0,0.19);
+    float: left;
+    width: 400px;
+}
+
+div.galeria img{
+    width: 100%;
+    height:366px;
+  
+}
+
+div.galeria2 img{
+    width: 100%;
+    height:366px;
+  
+}
+
+div.galeria4 img{
+    width: 100%;
+    height:500px;
+  
+}
+
+div.galeria5 img{
+    width: 100%;
+    height:200px;
+  
+}
+
+div.galeria8 img{
+    width: 100%;
+    height: 265px;
+}
+
+div.pie{
+    text-align: center;
+    color: white;
+    padding: 140px;
+    background-color: rgb(255, 208, 0);
+}
+
+div.pie1{
+    font-size: 33px;
+    color: white;
+    text-align: center;
+    padding: 0px;
+
+}
+
+div.pie2{
+    text-align: center;
+    color: white;
+    padding: 101px;
+    background-color: rgb(12, 34, 104);
+}
+
+div.pie3{
+    text-align: center;
+    color: white;
+    padding: 140px;
+    background-color: rgb(124, 23, 62);
+}
+
+div.pie4{
+    text-align: center;
+    color: white;
+    padding: 140px;
+    background-color: rgb(255, 208, 0);
+}
+
+div.pie5{
+    text-align: center;
+    color: rgb(17, 7, 110);
+    padding: 118px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+div.pie6{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 120px;
+    background-color: rgb(255, 208, 0);
+}
+
+div.pie7{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 120px;
+    background-color: rgb(124, 23, 62);
+}
+
+div.pie8{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    padding: 135px;
+    background-color: rgb(12, 34, 104);
+}
+
+div.pie9{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 131px;
+    background-color: rgb(255, 72, 0);
+}
+
+div.pie10{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 81px;
+    background-color: rgb(12, 34, 104);
+}
+
+div.pie11{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 81px;
+    background-color: rgb(12, 34, 104);
+}
+
